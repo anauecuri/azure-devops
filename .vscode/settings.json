@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/987f070d-8005-48c9-aace-0f3172fafc0b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/anauecuri",
+    "appService.deploySubpath": "devopswebapp/Publish"
+}
